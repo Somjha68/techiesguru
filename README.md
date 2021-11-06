@@ -1,2 +1,2 @@
-# techiesguru
+# mavo-tabs-widget
 SW COMPANY
