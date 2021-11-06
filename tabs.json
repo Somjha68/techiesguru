@@ -1,68 +1,73 @@
 {
-	"headline": "Our Approach",
+	"headline": "Services We Provide",
 	"tab": [
 		{
 			"title": {
-				"text": "Research"
+				"text": "Web Dev"
 			},
 			"open": true,
 			"content": {
-				"headline": "Research & Analytics",
-				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
-				"url": "#",
+				"headline": "Web Devlopment & Designing",
+				"text": "Our Platforms provide you the world best Services of Web Development and Designing",
+				"url": "Techiesguru.com",
 				"destination": "Details",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
+				"image": "https://live.staticflickr.com/65535/51653597978_584b89f95a_o.jpg"
+				// "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_research.svg"
 			}
 		},
 		{
 			"title": {
-				"text": "Planning"
+				"text": "Soft Dev"
 			},
 			"content": {
-				"headline": "Planning",
+				"headline": "Software Devlopment & Designing",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
+				"image": "https://live.staticflickr.com/65535/51654236790_430aca6c64_o.jpg"
+				// "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_planning.svg"
 			},
 			"open": false
 		},
 		{
 			"title": {
-				"text": "Production"
+				"text": "Digital Marketing"
 			},
 			"content": {
-				"headline": "Production",
+				"headline": "Digital Marketing",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
+				"image": "https://live.staticflickr.com/65535/51654044479_05b42b8320_o.png"
+				// "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_production.svg"
 			},
 			"open": false
 		},
 		{
 			"title": {
-				"text": "Testing"
+				"text": "Logo Designing"
 			},
 			"content": {
 				"headline": "Testing",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
+				"image": "https://live.staticflickr.com/65535/51654235370_799c59cf1b_o.jpg"
+				// "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_testing.svg"
 			},
 			"open": false
 		},
 		{
 			"title": {
-				"text": "Result"
+				"text": "Traveling"
 			},
 			"content": {
 				"headline": "Result",
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
+				"image": "https://live.staticflickr.com/65535/51654235390_bfec8193ff_o.jpg"
+				// "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1457119/undraw_result.svg"
 			},
 			"open": false
 		}
